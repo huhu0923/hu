@@ -1,2 +1,2 @@
 print("123")
-qweqweqweqwwqewe
+print("123")
